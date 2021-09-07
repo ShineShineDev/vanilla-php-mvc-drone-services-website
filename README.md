@@ -3,8 +3,8 @@
 ![image](https://github.com/ShineShineDev/vanilla-php-mvc-drone-services-website/blob/master/app_overview_photos/001_photo.jpg)
 
 
-### Download Repository
 
+### Download Repository
 ```
 git clone https://github.com/ShineShineDev/vanilla-php-mvc-drone-services-website.git
 ```
@@ -14,11 +14,14 @@ git clone https://github.com/ShineShineDev/vanilla-php-mvc-drone-services-websit
 
 
 
+
+
 ### Startup
 
 - `Open Apache web server and mysql (xmpp or wamp)`
 - `Import downloaded sql database(dev.sql) name with dev `
 - `Open this url => http://localhost/vanilla-php-mvc-drone-services-website/`
+
 
 
 
