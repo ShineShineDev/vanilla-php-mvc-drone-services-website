@@ -29,7 +29,7 @@ git clone https://github.com/ShineShineDev/vanilla-php-mvc-drone-services-websit
 
 ### Login to admin panel 
 
-- http://localhost/vanilla-php-mvc-drone-photo-website/user/user/login
+- http://localhost/vanilla-php-mvc-drone-services-website/user/login
 
 - `Mail` => dev@gmail.com
 
