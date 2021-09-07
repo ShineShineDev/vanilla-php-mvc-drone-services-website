@@ -1,8 +1,8 @@
 # Vanilla PHP MVC Architecture Drone Services Website
 
-![image](https://github.com/ShineShineDev/vanilla-php-mvc-drone-services-website/blob/master/app_overview_photos/001_photo.jpg)
 
 
+<img src="https://raw.githubusercontent.com/ShineShineDev/vanilla-php-mvc-drone-services-website/blob/master/app_overview_photos/001_photo.jpg?raw=true" />
 
 ### Download Repository
 ```
