@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.font-eng{
+    font-family: SansSerif;
+}
+.font-mm{
+    font-family: Zawgyi-One;
+}
+.hide-decor{
+    text-decoration: none;
+    cursor: auto;
+}
+.box{
+    box-shadow: 5px 5px 10px #999;
+}
+
+#bg-ani {
+    animation: animatedBackground 20s linear infinite alternate;
+  }
+
+  .input_style{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 100%;
+    border-bottom-color: rgba(255,255,255,0.2);
+    background-color: rgba(255,255,255,0);
+}
+
+.rounding{
+    animation-name: round;
+}
+
+.err_alert{
+    font-size: 14px;
+    height: 30px;
+    padding:6px;
+    border-radius: 3px;
+    color: #dc3545;
+    animation-delay: 1000ms;
+    font-family: SansSerif;
+    background-color: rgba(255,255,255,0.3);
+}
+
+.transparent-bg{
+    background-color: rgba(255,255,255,0.2);
+}
+
+.hover:hover{
+    background-color: rgba(143, 0, 255, 0.04);
+    color: aqua;
+}
+  .shine-br{
+    margin-top: 5px;
+    margin-bottom: 4px;
+    border: 0px;
+    height: 2px;
+    background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(rgba(0, 0, 0, 0)), color-stop(0.5, rgba(0, 0, 0, 0.33)), to(rgba(0, 0, 0, 0)))
+}
+
+ .dron-moving{
+      animation: droneMoving 10s linear infinite alternate;
+      position: relative;
+  }
+
+@keyframes droneMoving {
+    from{top: 50px;}
+    to{top: -50px;}
+}
+
+@media only screen and (min-width: 600px) {
+    .hide_pc{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .hide_moblie{
+        display: none;
+    }
+}
+
+@keyframes round {
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes animatedBackground {
+    from {background-position: 0 0;}
+    to {background-position: 100% 100%;}
+  }

@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+ Options -Multiviews
+RewriteBase /vanilla-php-mvc-drone-services-website/public/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+  
+ RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+</IfModule>

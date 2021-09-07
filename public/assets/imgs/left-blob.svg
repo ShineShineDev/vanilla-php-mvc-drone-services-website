@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="597px" height="694px" viewBox="0 0 597 694" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="38.8135301%" y1="123.432702%" x2="61.4662529%" y2="-17.1242862%" id="linearGradient-1">
+            <stop stop-color="#17EAD9" offset="0%"></stop>
+            <stop stop-color="#6078EA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.396949405">
+        <g id="blog-inside" transform="translate(0.000000, -922.000000)" fill="url(#linearGradient-1)">
+            <path d="M-177.86151,1102.94365 C-240.828667,1152.22551 -254.090995,1282.92929 -133.336072,1378.28887 C-12.5811489,1473.64845 185.938728,1380.88046 276.744468,1564.23974 C367.550208,1747.59902 794.875935,1399.62134 487.275491,1141.65815 C352.699579,1028.79865 426.948873,1017.70084 325.487495,945.397714 C208.971825,862.366644 147.284736,1030.08033 20.6187219,1053.66179 C-111.964031,1078.34478 -114.894353,1053.66179 -177.86151,1102.94365 Z" id="Path-8" transform="translate(186.000000, 1269.000000) rotate(180.000000) translate(-186.000000, -1269.000000) "></path>
+        </g>
+    </g>
+</svg>
